@@ -1,0 +1,20 @@
+---
+title: "一个flag :triangular_flag_on_post: "
+layout: post
+date: 2023-12-5 19:38
+# image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 杂记
+# star: true
+# hidden: true
+category: blog
+author: hugsun
+description: 决定开始踏出blog记录的第一步
+---
+
+## falg list :triangular_flag_on_post: 
+
+1. 将经验转化成文档
+2. 尽量每周一篇，但不要为了写而写
+3. 反懒惰
